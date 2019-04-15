@@ -6,6 +6,7 @@ module.exports = {
   bn: require('./bn/index.js'),
   cs: require('./cs/index.js'),
   de: require('./de/index.js'),
+  deCs: require('./de-cs/index.js'),
   el: require('./el/index.js'),
   enCA: require('./en-CA/index.js'),
   enGB: require('./en-GB/index.js'),
